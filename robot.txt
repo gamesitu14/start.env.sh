@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://start.env.sh/sitemap.xml
